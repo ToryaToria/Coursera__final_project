@@ -1,0 +1,29 @@
+
+
+.yellow {
+	background-color: yellow;
+}
+
+.h1 {
+display: inline-block;}
+
+.nav {
+list-style: none;
+}
+
+.flex {
+display: flex;
+gap: 15px;
+align-items: baseline;
+}
+
+.wrapp {
+	height: 20px;
+}
+
+.h2 {
+padding-top: 20px;
+padding-bottom: 10px;
+margin: 0;
+
+}
